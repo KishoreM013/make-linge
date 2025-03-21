@@ -1,0 +1,11 @@
+export PATH="$PATH":"$HOME/.pub-cache/bin"
+
+export CHROME_EXECUTABLE=/usr/bin/google-chrome-stable
+
+
+Platform  Firebase App Id
+web       1:336523389202:web:37228a79c3bb619e4a2bcb
+android   1:336523389202:android:b27db4a1cef4d6384a2bcb
+ios       1:336523389202:ios:113c7e19a07c1da64a2bcb
+macos     1:336523389202:ios:113c7e19a07c1da64a2bcb
+windows   1:336523389202:web:c45b30ea06ad94c24a2bcb

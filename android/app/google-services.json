@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336523389202",
+    "project_id": "linge-81467",
+    "storage_bucket": "linge-81467.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336523389202:android:b27db4a1cef4d6384a2bcb",
+        "android_client_info": {
+          "package_name": "com.example.makelinge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC77M5w-Ti8ai_Z6hqqiis_4I4MpX2ZDsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
